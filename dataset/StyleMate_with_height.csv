@@ -1,0 +1,501 @@
+Image_ID,Body_Shape,Shoulder_cm,Waist_cm,Hip_cm,Hip_Waist_Ratio,Colour_Palette,Garment_Type,Garment_Colour,Sleeve,Neckline,Pattern,Fabric,Occasion,Recommendation,Height_cm
+IMG_001,Rectangle,44,27,34,1.26,Warm,Blouse,Sky Blue,Sleeveless,High Neck,Polka Dot,Polyester,Casual,Pleated Skirt,169.0
+IMG_002,Pear,34,26,35,1.35,Neutral,Sweater,Sky Blue,Sleeveless,Square,Striped,Wool,Traditional,Dark Bottom,163.9
+IMG_003,Rectangle,37,33,43,1.3,Warm,Blouse,Brown,3/4,Collar,Checked,Denim,Formal,Belted Dress,170.2
+IMG_004,Hourglass,35,27,40,1.48,Cool,Sweater,Maroon,Half,Sweetheart,Solid,Wool,College,Wrap Dress,177.2
+IMG_005,Apple,48,32,35,1.09,Neutral,Sweater,Red,Half,Square,Striped,Wool,Casual,V-Neck Outfit,163.1
+IMG_006,Rectangle,44,29,46,1.59,Warm,Shirt,White,3/4,Collar,Floral,Wool,Party,Layered Outfit,163.1
+IMG_007,Rectangle,39,31,37,1.19,Neutral,Shirt,Beige,Full,High Neck,Striped,Polyester,Formal,Layered Outfit,177.6
+IMG_008,Apple,41,32,38,1.19,Neutral,Trousers,Sky Blue,-,-,Solid,Denim,Casual,Straight-Leg Trousers,171.1
+IMG_009,Pear,40,30,35,1.17,Neutral,Trousers,Grey,-,-,Striped,Wool,College,Dark Bottom,161.2
+IMG_010,Inverted Triangle,48,40,44,1.1,Cool,Blouse,Navy Blue,Short,High Neck,Printed,Polyester,Party,Flowy Dress,169.3
+IMG_011,Rectangle,48,35,40,1.14,Warm,Kurti,Sky Blue,3/4,Round,Solid,Rayon,Casual,Layered Outfit,161.3
+IMG_012,Inverted Triangle,44,28,46,1.64,Warm,Skirt,Olive,-,-,Floral,Polyester,College,V-Neck Top,161.3
+IMG_013,Hourglass,42,39,34,0.87,Neutral,Jeans,Yellow,-,-,Polka Dot,Linen,Casual,High-Waist Trousers,166.9
+IMG_014,Hourglass,40,28,41,1.46,Neutral,Jeans,Beige,-,-,Printed,Rayon,Formal,Wrap Dress,149.7
+IMG_015,Apple,47,36,38,1.06,Warm,Blouse,Olive,Half,Sweetheart,Striped,Polyester,Traditional,V-Neck Outfit,151.2
+IMG_016,Hourglass,43,31,41,1.32,Cool,Jeans,White,-,-,Striped,Cotton,Formal,Wrap Dress,160.5
+IMG_017,Hourglass,35,37,41,1.11,Neutral,Blouse,Brown,Short,High Neck,Floral,Polyester,Formal,High-Waist Trousers,156.9
+IMG_018,Inverted Triangle,42,39,43,1.1,Neutral,Dress,Sky Blue,Half,Boat,Polka Dot,Wool,Party,Flowy Dress,167.5
+IMG_019,Hourglass,48,34,41,1.21,Warm,Shirt,Sky Blue,Half,Round,Printed,Polyester,Formal,Fitted Dress,157.7
+IMG_020,Hourglass,34,27,45,1.67,Warm,T-Shirt,Sky Blue,Half,Round,Printed,Denim,Party,Belted Outfit,153.7
+IMG_021,Apple,37,34,36,1.06,Cool,Dress,Olive,3/4,Sweetheart,Floral,Denim,Casual,V-Neck Outfit,176.7
+IMG_022,Inverted Triangle,44,32,39,1.22,Cool,T-Shirt,Pink,Sleeveless,Round,Floral,Wool,Party,A-Line Skirt,163.2
+IMG_023,Apple,37,29,37,1.28,Warm,Skirt,Peach,-,-,Striped,Linen,College,Empire-Waist Dress,165.5
+IMG_024,Inverted Triangle,47,40,35,0.88,Neutral,Shirt,Brown,Sleeveless,High Neck,Printed,Rayon,Casual,A-Line Skirt,153.6
+IMG_025,Pear,48,38,47,1.24,Cool,Jacket,Navy Blue,3/4,V-Neck,Floral,Cotton,Formal,Dark Bottom,160.6
+IMG_026,Inverted Triangle,34,32,38,1.19,Cool,Kurti,Red,3/4,V-Neck,Striped,Linen,Formal,A-Line Skirt,165.9
+IMG_027,Hourglass,43,37,42,1.14,Cool,T-Shirt,Beige,Sleeveless,Square,Floral,Polyester,Traditional,Fitted Dress,155.8
+IMG_028,Pear,34,34,35,1.03,Neutral,Shirt,White,Short,Boat,Solid,Polyester,Formal,A-Line Dress,168.0
+IMG_029,Apple,43,27,40,1.48,Neutral,Trousers,Olive,-,-,Checked,Denim,Party,Empire-Waist Dress,160.2
+IMG_030,Rectangle,38,32,36,1.12,Cool,Shirt,Peach,Sleeveless,Boat,Printed,Polyester,Casual,Peplum Top,162.7
+IMG_031,Rectangle,42,29,42,1.45,Cool,Shirt,Navy Blue,Short,Collar,Checked,Denim,College,Belted Dress,160.2
+IMG_032,Apple,43,38,44,1.16,Neutral,Kurti,Black,Half,High Neck,Solid,Denim,Party,V-Neck Outfit,179.8
+IMG_033,Apple,48,27,45,1.67,Cool,Jeans,Navy Blue,-,-,Printed,Denim,Party,Empire-Waist Dress,164.9
+IMG_034,Rectangle,44,36,47,1.31,Cool,Jeans,Green,-,-,Solid,Cotton,College,Belted Dress,156.5
+IMG_035,Pear,34,26,39,1.5,Cool,Blouse,Yellow,3/4,Square,Polka Dot,Silk,Traditional,A-Line Dress,171.6
+IMG_036,Pear,35,27,48,1.78,Warm,Trousers,Green,-,-,Printed,Polyester,Formal,Dark Bottom,155.2
+IMG_037,Rectangle,36,26,38,1.46,Warm,Trousers,Grey,-,-,Striped,Wool,Formal,Peplum Top,166.7
+IMG_038,Inverted Triangle,39,38,42,1.11,Neutral,Blouse,Olive,Short,Sweetheart,Striped,Rayon,Formal,Flowy Dress,149.3
+IMG_039,Rectangle,34,28,45,1.61,Cool,Dress,Brown,Half,V-Neck,Polka Dot,Cotton,College,Peplum Top,154.4
+IMG_040,Pear,47,33,37,1.12,Cool,Trousers,Lavender,-,-,Checked,Rayon,Formal,Structured Top,166.6
+IMG_041,Inverted Triangle,34,36,37,1.03,Cool,Shirt,Maroon,Half,Collar,Polka Dot,Polyester,College,V-Neck Top,170.9
+IMG_042,Rectangle,34,27,48,1.78,Neutral,Jeans,Navy Blue,-,-,Solid,Cotton,Traditional,Pleated Skirt,166.4
+IMG_043,Rectangle,39,37,46,1.24,Neutral,Kurti,Pink,Sleeveless,Boat,Printed,Denim,Party,Peplum Top,164.1
+IMG_044,Apple,45,32,34,1.06,Neutral,Dress,Grey,Half,Boat,Solid,Wool,Party,Straight-Leg Trousers,162.6
+IMG_045,Rectangle,44,39,35,0.9,Cool,Skirt,Green,-,-,Checked,Silk,Party,Layered Outfit,153.2
+IMG_046,Inverted Triangle,37,32,44,1.38,Neutral,Blouse,Yellow,Full,Square,Checked,Silk,Traditional,A-Line Skirt,159.2
+IMG_047,Inverted Triangle,38,30,37,1.23,Neutral,Sweater,Brown,Half,Boat,Floral,Silk,Formal,Flowy Dress,161.3
+IMG_048,Pear,46,40,46,1.15,Warm,Jeans,Yellow,-,-,Printed,Wool,Traditional,Boat-Neck Top,173.5
+IMG_049,Pear,35,39,46,1.18,Cool,Dress,Yellow,Short,V-Neck,Solid,Cotton,Formal,Dark Bottom,167.7
+IMG_050,Hourglass,43,39,46,1.18,Cool,Sweater,Peach,Short,High Neck,Polka Dot,Silk,College,Belted Outfit,150.9
+IMG_051,Hourglass,37,28,44,1.57,Warm,Skirt,Grey,-,-,Striped,Denim,Traditional,Belted Outfit,167.6
+IMG_052,Hourglass,34,34,37,1.09,Warm,Jacket,Peach,Full,Square,Printed,Linen,College,Belted Outfit,161.9
+IMG_053,Inverted Triangle,47,40,42,1.05,Warm,Jacket,Grey,3/4,Collar,Striped,Rayon,Party,Flowy Dress,159.6
+IMG_054,Inverted Triangle,44,29,38,1.31,Neutral,Jeans,White,-,-,Striped,Linen,Party,V-Neck Top,169.9
+IMG_055,Pear,48,34,35,1.03,Warm,Skirt,Navy Blue,-,-,Polka Dot,Denim,Formal,A-Line Dress,173.2
+IMG_056,Apple,40,32,39,1.22,Cool,T-Shirt,Peach,Short,Sweetheart,Floral,Silk,Traditional,V-Neck Outfit,172.5
+IMG_057,Apple,47,40,46,1.15,Cool,T-Shirt,Pink,Half,Collar,Floral,Rayon,College,Empire-Waist Dress,158.3
+IMG_058,Inverted Triangle,41,29,38,1.31,Warm,Skirt,Peach,-,-,Checked,Wool,College,Wide-Leg Trousers,162.5
+IMG_059,Pear,47,33,48,1.45,Neutral,T-Shirt,Olive,3/4,Square,Printed,Wool,Casual,A-Line Dress,167.7
+IMG_060,Inverted Triangle,44,32,36,1.12,Warm,Jeans,Navy Blue,-,-,Floral,Linen,Formal,Flowy Dress,172.8
+IMG_061,Inverted Triangle,39,31,46,1.48,Cool,Jeans,Red,-,-,Solid,Silk,Casual,A-Line Skirt,161.2
+IMG_062,Hourglass,39,29,44,1.52,Neutral,T-Shirt,Brown,Sleeveless,V-Neck,Striped,Rayon,Casual,Fitted Dress,163.5
+IMG_063,Hourglass,37,28,41,1.46,Warm,Jacket,Olive,Half,Sweetheart,Checked,Denim,Traditional,Wrap Dress,156.1
+IMG_064,Rectangle,46,39,36,0.92,Neutral,T-Shirt,White,Half,Square,Polka Dot,Silk,College,Layered Outfit,155.4
+IMG_065,Pear,35,35,45,1.29,Neutral,Jeans,White,-,-,Polka Dot,Polyester,Casual,A-Line Dress,171.5
+IMG_066,Rectangle,39,34,40,1.18,Neutral,Trousers,White,-,-,Solid,Rayon,College,Pleated Skirt,175.8
+IMG_067,Inverted Triangle,35,32,39,1.22,Warm,Skirt,Beige,-,-,Striped,Wool,Traditional,V-Neck Top,164.4
+IMG_068,Apple,43,38,48,1.26,Cool,Jacket,Brown,3/4,Sweetheart,Polka Dot,Polyester,Party,Straight-Leg Trousers,173.0
+IMG_069,Hourglass,47,29,47,1.62,Cool,Dress,Red,3/4,Square,Printed,Wool,College,High-Waist Trousers,167.9
+IMG_070,Rectangle,34,33,47,1.42,Cool,Dress,Navy Blue,Half,Sweetheart,Checked,Linen,Party,Belted Dress,159.8
+IMG_071,Pear,42,26,42,1.62,Warm,Skirt,White,-,-,Floral,Polyester,Formal,Dark Bottom,167.9
+IMG_072,Inverted Triangle,44,37,41,1.11,Warm,Shirt,Brown,Half,V-Neck,Floral,Wool,Formal,V-Neck Top,177.3
+IMG_073,Inverted Triangle,44,35,39,1.11,Neutral,Trousers,Green,-,-,Floral,Wool,Traditional,V-Neck Top,164.7
+IMG_074,Rectangle,39,37,41,1.11,Cool,Dress,Red,Sleeveless,High Neck,Striped,Linen,Casual,Layered Outfit,177.5
+IMG_075,Inverted Triangle,37,29,45,1.55,Neutral,Sweater,Red,Full,Square,Checked,Cotton,Formal,V-Neck Top,145.0
+IMG_076,Rectangle,37,31,36,1.16,Neutral,Kurti,Black,Short,Collar,Solid,Cotton,Traditional,Belted Dress,171.6
+IMG_077,Inverted Triangle,45,28,44,1.57,Warm,Sweater,White,Half,Boat,Floral,Silk,Party,Wide-Leg Trousers,165.7
+IMG_078,Inverted Triangle,34,30,47,1.57,Warm,Skirt,White,-,-,Floral,Cotton,Traditional,A-Line Skirt,162.6
+IMG_079,Apple,36,28,46,1.64,Warm,Dress,Red,Sleeveless,Square,Floral,Polyester,Traditional,Empire-Waist Dress,165.7
+IMG_080,Inverted Triangle,46,34,40,1.18,Cool,Jeans,Grey,-,-,Printed,Silk,Party,A-Line Skirt,149.1
+IMG_081,Pear,43,37,35,0.95,Warm,Jeans,Yellow,-,-,Polka Dot,Cotton,Formal,Structured Top,163.2
+IMG_082,Pear,36,34,35,1.03,Cool,Jacket,Black,Full,Boat,Checked,Cotton,Formal,Boat-Neck Top,167.9
+IMG_083,Inverted Triangle,45,30,45,1.5,Neutral,Dress,White,Half,Sweetheart,Polka Dot,Polyester,Formal,Flowy Dress,176.8
+IMG_084,Pear,35,34,37,1.09,Cool,Blouse,Grey,Sleeveless,Round,Striped,Rayon,Party,Boat-Neck Top,160.9
+IMG_085,Rectangle,41,27,41,1.52,Cool,Jeans,Beige,-,-,Printed,Polyester,College,Pleated Skirt,158.5
+IMG_086,Inverted Triangle,35,35,34,0.97,Cool,Sweater,Beige,Half,Round,Solid,Denim,Traditional,A-Line Skirt,161.0
+IMG_087,Rectangle,46,36,47,1.31,Warm,Blouse,Olive,3/4,Square,Polka Dot,Silk,Party,Layered Outfit,172.3
+IMG_088,Inverted Triangle,43,32,44,1.38,Cool,Trousers,White,-,-,Floral,Linen,Party,A-Line Skirt,167.6
+IMG_089,Inverted Triangle,47,28,39,1.39,Cool,Jeans,Beige,-,-,Polka Dot,Silk,Traditional,A-Line Skirt,160.8
+IMG_090,Rectangle,41,27,39,1.44,Warm,Skirt,Maroon,-,-,Printed,Rayon,Casual,Pleated Skirt,169.1
+IMG_091,Apple,40,26,37,1.42,Neutral,Jacket,Maroon,3/4,Sweetheart,Solid,Denim,Party,Empire-Waist Dress,165.8
+IMG_092,Inverted Triangle,48,30,41,1.37,Warm,Sweater,White,Short,High Neck,Striped,Linen,Traditional,A-Line Skirt,172.7
+IMG_093,Pear,42,32,35,1.09,Warm,Jacket,Lavender,Sleeveless,High Neck,Striped,Silk,Party,Boat-Neck Top,159.4
+IMG_094,Inverted Triangle,40,39,41,1.05,Cool,Kurti,Sky Blue,Short,Boat,Striped,Polyester,Traditional,Wide-Leg Trousers,162.4
+IMG_095,Inverted Triangle,47,27,38,1.41,Neutral,Jeans,Maroon,-,-,Solid,Linen,Party,Flowy Dress,161.9
+IMG_096,Apple,47,28,41,1.46,Cool,Trousers,Peach,-,-,Printed,Rayon,Traditional,Longline Jacket,153.3
+IMG_097,Pear,41,40,39,0.97,Warm,Sweater,Beige,3/4,V-Neck,Floral,Cotton,Party,Dark Bottom,167.4
+IMG_098,Inverted Triangle,45,40,46,1.15,Neutral,Blouse,Pink,3/4,Round,Striped,Polyester,Traditional,V-Neck Top,167.1
+IMG_099,Inverted Triangle,47,27,47,1.74,Neutral,Jacket,White,Sleeveless,High Neck,Striped,Silk,Formal,A-Line Skirt,165.0
+IMG_100,Rectangle,41,38,38,1.0,Neutral,Skirt,Olive,-,-,Polka Dot,Cotton,Party,Pleated Skirt,163.1
+IMG_101,Inverted Triangle,39,36,45,1.25,Neutral,T-Shirt,Lavender,Full,Round,Striped,Wool,Party,Wide-Leg Trousers,153.7
+IMG_102,Hourglass,45,27,40,1.48,Neutral,Shirt,Brown,3/4,V-Neck,Polka Dot,Linen,Casual,Wrap Dress,161.6
+IMG_103,Rectangle,39,38,34,0.89,Cool,Skirt,Maroon,-,-,Striped,Denim,Traditional,Pleated Skirt,162.3
+IMG_104,Pear,43,36,46,1.28,Warm,Shirt,Navy Blue,Full,Sweetheart,Floral,Polyester,Formal,Dark Bottom,158.6
+IMG_105,Pear,48,35,36,1.03,Neutral,Jeans,Peach,-,-,Floral,Linen,Casual,Dark Bottom,163.7
+IMG_106,Apple,48,30,44,1.47,Warm,Jacket,Navy Blue,Half,Square,Checked,Wool,College,Straight-Leg Trousers,168.2
+IMG_107,Pear,41,39,38,0.97,Cool,Shirt,Pink,Short,Boat,Printed,Linen,Traditional,Boat-Neck Top,180.1
+IMG_108,Inverted Triangle,45,30,34,1.13,Warm,Sweater,Red,Sleeveless,Square,Polka Dot,Silk,Party,Wide-Leg Trousers,166.4
+IMG_109,Pear,43,38,39,1.03,Warm,Sweater,Yellow,Half,High Neck,Polka Dot,Rayon,Formal,A-Line Dress,167.1
+IMG_110,Hourglass,48,36,44,1.22,Cool,T-Shirt,Red,Full,Collar,Polka Dot,Denim,Casual,High-Waist Trousers,164.4
+IMG_111,Pear,39,37,40,1.08,Warm,Kurti,Sky Blue,Half,Square,Printed,Linen,Formal,Boat-Neck Top,149.6
+IMG_112,Rectangle,48,39,41,1.05,Cool,Shirt,Beige,3/4,Round,Striped,Rayon,Formal,Pleated Skirt,164.8
+IMG_113,Rectangle,47,38,42,1.11,Cool,T-Shirt,White,Half,Square,Solid,Silk,Party,Belted Dress,165.5
+IMG_114,Rectangle,43,32,47,1.47,Neutral,Dress,White,3/4,Round,Printed,Polyester,Party,Layered Outfit,184.7
+IMG_115,Inverted Triangle,44,27,44,1.63,Neutral,Jeans,Grey,-,-,Polka Dot,Silk,Casual,Wide-Leg Trousers,163.5
+IMG_116,Inverted Triangle,34,26,38,1.46,Warm,Dress,White,Full,V-Neck,Floral,Silk,Party,Flowy Dress,167.4
+IMG_117,Pear,43,37,45,1.22,Cool,Shirt,Grey,3/4,Square,Floral,Linen,Casual,Boat-Neck Top,164.7
+IMG_118,Pear,37,33,41,1.24,Cool,Shirt,Lavender,Half,Square,Polka Dot,Linen,Casual,Dark Bottom,155.7
+IMG_119,Inverted Triangle,38,29,35,1.21,Neutral,Dress,White,Full,Round,Solid,Rayon,Party,Wide-Leg Trousers,174.1
+IMG_120,Pear,36,38,43,1.13,Neutral,Dress,White,Full,V-Neck,Striped,Linen,Formal,A-Line Dress,171.0
+IMG_121,Pear,38,39,36,0.92,Cool,Blouse,Green,Sleeveless,High Neck,Solid,Denim,Casual,Boat-Neck Top,171.3
+IMG_122,Apple,46,38,37,0.97,Warm,Blouse,Maroon,Half,Round,Striped,Wool,College,V-Neck Outfit,157.7
+IMG_123,Inverted Triangle,45,27,41,1.52,Cool,Kurti,Brown,Full,Round,Floral,Polyester,Formal,A-Line Skirt,176.2
+IMG_124,Apple,45,38,48,1.26,Cool,T-Shirt,Red,Sleeveless,Boat,Floral,Silk,Casual,Longline Jacket,153.8
+IMG_125,Hourglass,45,40,41,1.02,Warm,Trousers,Grey,-,-,Printed,Denim,Casual,Fitted Dress,169.7
+IMG_126,Apple,38,35,44,1.26,Neutral,Trousers,Green,-,-,Floral,Polyester,Traditional,Straight-Leg Trousers,182.5
+IMG_127,Inverted Triangle,41,34,43,1.26,Neutral,Shirt,White,Full,High Neck,Striped,Silk,College,Wide-Leg Trousers,157.1
+IMG_128,Inverted Triangle,40,31,47,1.52,Cool,Shirt,Pink,Half,Boat,Checked,Wool,Party,V-Neck Top,160.5
+IMG_129,Inverted Triangle,36,36,48,1.33,Warm,Shirt,White,Sleeveless,Boat,Solid,Wool,Party,Wide-Leg Trousers,165.8
+IMG_130,Apple,42,26,43,1.65,Cool,Shirt,Green,3/4,Collar,Polka Dot,Rayon,College,V-Neck Outfit,161.0
+IMG_131,Rectangle,38,35,38,1.09,Neutral,Kurti,White,Short,V-Neck,Polka Dot,Silk,Formal,Peplum Top,152.6
+IMG_132,Rectangle,39,39,42,1.08,Cool,Sweater,White,Short,Sweetheart,Floral,Rayon,Traditional,Peplum Top,165.5
+IMG_133,Rectangle,43,40,44,1.1,Warm,Jeans,Black,-,-,Polka Dot,Rayon,Party,Belted Dress,156.5
+IMG_134,Pear,39,26,36,1.38,Neutral,Skirt,Olive,-,-,Solid,Denim,Casual,A-Line Dress,168.8
+IMG_135,Inverted Triangle,45,34,37,1.09,Cool,Trousers,Pink,-,-,Striped,Linen,Party,V-Neck Top,157.6
+IMG_136,Hourglass,46,35,43,1.23,Warm,Blouse,Grey,Short,Sweetheart,Printed,Cotton,Casual,High-Waist Trousers,177.4
+IMG_137,Inverted Triangle,41,36,40,1.11,Cool,Skirt,Olive,-,-,Checked,Denim,Traditional,A-Line Skirt,158.7
+IMG_138,Rectangle,39,32,35,1.09,Neutral,Sweater,Yellow,3/4,Square,Polka Dot,Linen,Casual,Layered Outfit,162.4
+IMG_139,Hourglass,40,35,34,0.97,Cool,Dress,Sky Blue,Short,Sweetheart,Checked,Linen,Party,Wrap Dress,171.5
+IMG_140,Inverted Triangle,34,33,45,1.36,Warm,Skirt,Navy Blue,-,-,Printed,Wool,Formal,V-Neck Top,155.2
+IMG_141,Hourglass,35,32,47,1.47,Warm,Jacket,Pink,Sleeveless,Sweetheart,Checked,Polyester,College,Belted Outfit,166.8
+IMG_142,Rectangle,45,36,40,1.11,Cool,T-Shirt,White,Half,V-Neck,Printed,Silk,Party,Peplum Top,175.5
+IMG_143,Pear,40,39,35,0.9,Neutral,Skirt,Pink,-,-,Printed,Cotton,College,Boat-Neck Top,152.1
+IMG_144,Rectangle,45,31,37,1.19,Warm,Shirt,Brown,Full,High Neck,Solid,Polyester,Traditional,Layered Outfit,166.5
+IMG_145,Rectangle,48,38,39,1.03,Neutral,Blouse,Beige,Short,Round,Striped,Linen,Formal,Layered Outfit,167.1
+IMG_146,Hourglass,43,28,46,1.64,Neutral,Jacket,Navy Blue,3/4,Sweetheart,Printed,Rayon,Traditional,Belted Outfit,171.3
+IMG_147,Apple,44,40,48,1.2,Neutral,Sweater,Yellow,Half,Sweetheart,Polka Dot,Linen,Formal,Longline Jacket,155.1
+IMG_148,Rectangle,35,33,41,1.24,Cool,Sweater,Brown,Sleeveless,Collar,Printed,Cotton,Party,Pleated Skirt,154.4
+IMG_149,Rectangle,41,26,34,1.31,Cool,Shirt,Lavender,Sleeveless,Square,Printed,Polyester,College,Pleated Skirt,169.2
+IMG_150,Hourglass,43,34,46,1.35,Neutral,Dress,Peach,Half,Square,Floral,Polyester,Formal,Wrap Dress,167.4
+IMG_151,Rectangle,41,27,46,1.7,Warm,Kurti,Beige,Short,Round,Striped,Wool,College,Pleated Skirt,167.0
+IMG_152,Pear,42,34,43,1.26,Cool,Jeans,Maroon,-,-,Floral,Silk,Party,A-Line Dress,167.8
+IMG_153,Rectangle,46,36,44,1.22,Cool,Shirt,White,Full,High Neck,Floral,Linen,Party,Layered Outfit,159.6
+IMG_154,Pear,39,27,43,1.59,Cool,Jeans,Grey,-,-,Polka Dot,Wool,College,Structured Top,166.9
+IMG_155,Rectangle,43,37,35,0.95,Cool,Trousers,Green,-,-,Striped,Wool,Traditional,Peplum Top,167.3
+IMG_156,Apple,44,36,40,1.11,Warm,Trousers,Maroon,-,-,Checked,Denim,Formal,Straight-Leg Trousers,159.3
+IMG_157,Pear,46,33,37,1.12,Warm,Shirt,Navy Blue,Half,Sweetheart,Solid,Polyester,Traditional,A-Line Dress,179.9
+IMG_158,Apple,44,31,48,1.55,Neutral,Skirt,Navy Blue,-,-,Striped,Denim,Formal,Empire-Waist Dress,168.8
+IMG_159,Inverted Triangle,45,33,34,1.03,Neutral,Dress,Maroon,3/4,Square,Checked,Rayon,College,Wide-Leg Trousers,155.5
+IMG_160,Inverted Triangle,42,29,38,1.31,Warm,Trousers,Grey,-,-,Polka Dot,Polyester,College,Flowy Dress,170.3
+IMG_161,Inverted Triangle,46,30,46,1.53,Neutral,Skirt,Green,-,-,Striped,Rayon,Formal,Wide-Leg Trousers,157.2
+IMG_162,Inverted Triangle,47,30,34,1.13,Cool,Kurti,Lavender,Sleeveless,High Neck,Printed,Rayon,Casual,V-Neck Top,171.3
+IMG_163,Rectangle,35,38,36,0.95,Neutral,Blouse,Peach,3/4,Round,Striped,Rayon,College,Belted Dress,174.3
+IMG_164,Hourglass,48,26,40,1.54,Neutral,Trousers,Pink,-,-,Striped,Silk,Casual,High-Waist Trousers,158.4
+IMG_165,Hourglass,37,26,39,1.5,Neutral,Trousers,Lavender,-,-,Striped,Denim,Casual,High-Waist Trousers,172.7
+IMG_166,Pear,48,39,41,1.05,Neutral,Jacket,Brown,3/4,Square,Solid,Cotton,Casual,Boat-Neck Top,168.3
+IMG_167,Apple,37,39,36,0.92,Neutral,Kurti,Beige,3/4,Round,Checked,Denim,Party,V-Neck Outfit,171.6
+IMG_168,Apple,34,29,40,1.38,Warm,Shirt,Peach,3/4,Square,Printed,Cotton,Traditional,Empire-Waist Dress,180.2
+IMG_169,Inverted Triangle,45,28,38,1.36,Neutral,Trousers,Black,-,-,Striped,Polyester,College,Wide-Leg Trousers,163.0
+IMG_170,Apple,44,36,35,0.97,Warm,Kurti,Maroon,Full,Square,Printed,Polyester,Casual,Longline Jacket,159.0
+IMG_171,Inverted Triangle,47,33,34,1.03,Cool,T-Shirt,Maroon,Half,Sweetheart,Solid,Linen,Formal,A-Line Skirt,157.9
+IMG_172,Rectangle,46,35,45,1.29,Warm,Trousers,Navy Blue,-,-,Printed,Linen,Formal,Pleated Skirt,158.5
+IMG_173,Pear,45,33,44,1.33,Warm,Shirt,Brown,3/4,Round,Checked,Denim,Casual,Structured Top,164.4
+IMG_174,Rectangle,48,26,39,1.5,Cool,Kurti,Green,3/4,Collar,Solid,Rayon,Formal,Belted Dress,167.7
+IMG_175,Hourglass,39,39,46,1.18,Neutral,Trousers,Lavender,-,-,Checked,Cotton,Party,Belted Outfit,167.2
+IMG_176,Inverted Triangle,48,32,45,1.41,Cool,Trousers,Grey,-,-,Striped,Silk,College,V-Neck Top,171.6
+IMG_177,Rectangle,48,38,42,1.11,Warm,Skirt,Brown,-,-,Solid,Silk,Traditional,Layered Outfit,165.1
+IMG_178,Hourglass,42,30,39,1.3,Cool,Jeans,White,-,-,Checked,Silk,Traditional,Belted Outfit,176.6
+IMG_179,Rectangle,36,37,41,1.11,Warm,Trousers,Peach,-,-,Printed,Silk,Party,Peplum Top,162.9
+IMG_180,Inverted Triangle,35,36,44,1.22,Neutral,Blouse,Maroon,Sleeveless,V-Neck,Printed,Wool,College,A-Line Skirt,186.8
+IMG_181,Rectangle,36,27,37,1.37,Cool,Sweater,Maroon,Sleeveless,Square,Striped,Wool,College,Belted Dress,170.0
+IMG_182,Hourglass,39,33,46,1.39,Warm,Kurti,Olive,Half,Boat,Checked,Wool,Party,Fitted Dress,158.1
+IMG_183,Pear,35,26,45,1.73,Neutral,Skirt,Peach,-,-,Printed,Cotton,Party,Boat-Neck Top,156.4
+IMG_184,Apple,45,33,37,1.12,Neutral,Jacket,Red,Short,Round,Striped,Rayon,Casual,Longline Jacket,168.9
+IMG_185,Inverted Triangle,36,40,45,1.12,Neutral,Trousers,White,-,-,Polka Dot,Linen,Casual,V-Neck Top,163.2
+IMG_186,Pear,48,30,47,1.57,Neutral,Blouse,Beige,Half,Square,Striped,Cotton,Formal,Structured Top,170.7
+IMG_187,Hourglass,37,38,41,1.08,Neutral,Sweater,Maroon,Half,Boat,Printed,Denim,Traditional,Wrap Dress,168.8
+IMG_188,Inverted Triangle,35,30,40,1.33,Cool,Skirt,Green,-,-,Printed,Cotton,Formal,V-Neck Top,164.4
+IMG_189,Inverted Triangle,44,27,41,1.52,Neutral,Trousers,Yellow,-,-,Striped,Rayon,Traditional,Wide-Leg Trousers,158.2
+IMG_190,Apple,46,28,40,1.43,Warm,Shirt,Grey,Full,V-Neck,Checked,Denim,Formal,Straight-Leg Trousers,152.9
+IMG_191,Rectangle,48,37,37,1.0,Cool,Shirt,Green,Half,V-Neck,Polka Dot,Polyester,Party,Layered Outfit,161.4
+IMG_192,Apple,44,30,43,1.43,Neutral,Blouse,White,Full,Square,Striped,Denim,Traditional,Straight-Leg Trousers,171.9
+IMG_193,Hourglass,47,40,43,1.07,Warm,Shirt,Lavender,Sleeveless,High Neck,Printed,Linen,Formal,Belted Outfit,166.7
+IMG_194,Inverted Triangle,43,36,34,0.94,Neutral,Kurti,Grey,Half,High Neck,Checked,Silk,Formal,Flowy Dress,155.0
+IMG_195,Hourglass,38,33,35,1.06,Cool,Skirt,Navy Blue,-,-,Floral,Silk,Formal,High-Waist Trousers,166.4
+IMG_196,Rectangle,43,28,39,1.39,Cool,Skirt,Beige,-,-,Striped,Rayon,Party,Peplum Top,168.1
+IMG_197,Hourglass,39,29,41,1.41,Cool,Dress,Red,Short,Round,Solid,Linen,College,Belted Outfit,157.9
+IMG_198,Pear,37,39,48,1.23,Cool,Sweater,Lavender,Half,V-Neck,Striped,Silk,Traditional,Dark Bottom,166.2
+IMG_199,Inverted Triangle,41,40,38,0.95,Warm,Skirt,Black,-,-,Printed,Silk,Formal,Wide-Leg Trousers,165.5
+IMG_200,Hourglass,43,31,34,1.1,Cool,Sweater,Red,3/4,Collar,Printed,Cotton,Casual,Belted Outfit,155.9
+IMG_201,Rectangle,36,40,38,0.95,Cool,Trousers,Brown,-,-,Solid,Silk,Casual,Layered Outfit,167.9
+IMG_202,Hourglass,39,34,38,1.12,Neutral,Jacket,Pink,Full,Collar,Printed,Wool,Traditional,Wrap Dress,169.5
+IMG_203,Rectangle,36,27,40,1.48,Cool,Kurti,Brown,Half,Sweetheart,Striped,Denim,Traditional,Pleated Skirt,173.7
+IMG_204,Hourglass,42,26,34,1.31,Neutral,Trousers,Navy Blue,-,-,Floral,Polyester,College,Fitted Dress,173.4
+IMG_205,Pear,43,40,42,1.05,Neutral,Trousers,Maroon,-,-,Striped,Silk,Traditional,Boat-Neck Top,154.0
+IMG_206,Apple,43,31,42,1.35,Cool,Sweater,Green,Half,Boat,Solid,Linen,Party,V-Neck Outfit,157.5
+IMG_207,Hourglass,40,35,38,1.09,Cool,Jeans,Olive,-,-,Polka Dot,Rayon,Traditional,Fitted Dress,169.1
+IMG_208,Inverted Triangle,45,26,43,1.65,Neutral,Sweater,Navy Blue,3/4,V-Neck,Polka Dot,Denim,Casual,A-Line Skirt,169.1
+IMG_209,Rectangle,37,26,41,1.58,Warm,Skirt,Pink,-,-,Polka Dot,Denim,College,Pleated Skirt,169.1
+IMG_210,Hourglass,47,39,45,1.15,Warm,Kurti,Beige,Short,Square,Checked,Wool,College,Belted Outfit,190.0
+IMG_211,Apple,39,28,41,1.46,Neutral,Trousers,Maroon,-,-,Polka Dot,Rayon,Party,Longline Jacket,169.6
+IMG_212,Apple,37,29,38,1.31,Warm,Jeans,Red,-,-,Checked,Wool,Formal,Longline Jacket,174.1
+IMG_213,Apple,39,33,39,1.18,Neutral,Jeans,Grey,-,-,Checked,Cotton,Traditional,Longline Jacket,172.6
+IMG_214,Rectangle,48,32,47,1.47,Warm,Jeans,Brown,-,-,Solid,Linen,Casual,Belted Dress,170.2
+IMG_215,Rectangle,48,33,44,1.33,Cool,Dress,Beige,Short,Sweetheart,Printed,Linen,Traditional,Belted Dress,162.5
+IMG_216,Apple,36,27,43,1.59,Warm,T-Shirt,Sky Blue,Full,V-Neck,Polka Dot,Denim,Casual,V-Neck Outfit,171.1
+IMG_217,Inverted Triangle,40,31,45,1.45,Neutral,Blouse,White,Sleeveless,Square,Striped,Silk,College,Flowy Dress,158.8
+IMG_218,Rectangle,44,29,46,1.59,Cool,T-Shirt,Maroon,Sleeveless,High Neck,Printed,Denim,Traditional,Peplum Top,163.1
+IMG_219,Inverted Triangle,48,40,36,0.9,Warm,T-Shirt,Grey,3/4,Sweetheart,Floral,Denim,Party,A-Line Skirt,161.1
+IMG_220,Apple,34,30,43,1.43,Cool,Jeans,White,-,-,Floral,Wool,Traditional,Longline Jacket,165.7
+IMG_221,Apple,48,28,47,1.68,Cool,Dress,Peach,Sleeveless,Collar,Striped,Wool,College,Straight-Leg Trousers,183.5
+IMG_222,Rectangle,45,28,34,1.21,Cool,Sweater,Brown,Short,V-Neck,Printed,Rayon,College,Pleated Skirt,150.1
+IMG_223,Inverted Triangle,42,31,35,1.13,Warm,Blouse,Yellow,Short,Boat,Checked,Denim,Casual,V-Neck Top,170.5
+IMG_224,Rectangle,40,29,41,1.41,Cool,Sweater,Maroon,Full,Round,Checked,Wool,Party,Layered Outfit,152.1
+IMG_225,Inverted Triangle,34,36,35,0.97,Warm,Skirt,Red,-,-,Polka Dot,Polyester,Party,A-Line Skirt,161.2
+IMG_226,Rectangle,44,40,38,0.95,Warm,Dress,Olive,Short,Boat,Striped,Silk,Traditional,Belted Dress,173.7
+IMG_227,Inverted Triangle,40,37,42,1.14,Neutral,Dress,Brown,Short,High Neck,Printed,Rayon,Casual,Flowy Dress,165.5
+IMG_228,Hourglass,42,37,39,1.05,Neutral,Shirt,Grey,Sleeveless,Sweetheart,Printed,Polyester,Formal,Fitted Dress,156.4
+IMG_229,Apple,36,31,47,1.52,Warm,Dress,Peach,Full,Boat,Solid,Polyester,College,V-Neck Outfit,159.3
+IMG_230,Inverted Triangle,41,28,42,1.5,Neutral,T-Shirt,Peach,Full,Boat,Polka Dot,Rayon,Party,A-Line Skirt,170.4
+IMG_231,Hourglass,40,30,47,1.57,Warm,Sweater,Beige,Sleeveless,Round,Floral,Linen,Casual,Wrap Dress,159.2
+IMG_232,Inverted Triangle,48,40,35,0.88,Cool,Skirt,Black,-,-,Striped,Rayon,Formal,Flowy Dress,166.7
+IMG_233,Inverted Triangle,39,40,40,1.0,Cool,Skirt,Lavender,-,-,Solid,Wool,Traditional,Wide-Leg Trousers,165.4
+IMG_234,Hourglass,44,39,39,1.0,Neutral,Skirt,Navy Blue,-,-,Printed,Denim,Formal,Wrap Dress,159.8
+IMG_235,Inverted Triangle,46,26,38,1.46,Neutral,Kurti,Yellow,3/4,Square,Floral,Rayon,Formal,Wide-Leg Trousers,182.2
+IMG_236,Rectangle,41,31,36,1.16,Neutral,Shirt,Sky Blue,Sleeveless,Sweetheart,Polka Dot,Silk,Traditional,Peplum Top,170.1
+IMG_237,Hourglass,37,29,35,1.21,Warm,Jacket,Olive,Full,High Neck,Polka Dot,Rayon,Casual,Fitted Dress,148.8
+IMG_238,Inverted Triangle,45,26,40,1.54,Neutral,Dress,Sky Blue,Sleeveless,V-Neck,Printed,Linen,Formal,V-Neck Top,166.5
+IMG_239,Rectangle,43,35,46,1.31,Cool,Blouse,Sky Blue,Full,V-Neck,Floral,Linen,Party,Peplum Top,159.7
+IMG_240,Pear,42,35,48,1.37,Neutral,Skirt,Yellow,-,-,Printed,Silk,Casual,Boat-Neck Top,171.8
+IMG_241,Apple,44,36,40,1.11,Neutral,Skirt,Maroon,-,-,Floral,Denim,Party,Longline Jacket,158.7
+IMG_242,Inverted Triangle,36,38,42,1.11,Warm,Jeans,Sky Blue,-,-,Polka Dot,Denim,College,A-Line Skirt,164.1
+IMG_243,Apple,42,32,40,1.25,Warm,Skirt,Green,-,-,Striped,Linen,Formal,Straight-Leg Trousers,169.0
+IMG_244,Inverted Triangle,44,27,48,1.78,Cool,Shirt,Lavender,Full,High Neck,Striped,Cotton,Party,Flowy Dress,171.9
+IMG_245,Hourglass,44,35,43,1.23,Warm,Dress,Lavender,Full,High Neck,Polka Dot,Polyester,Formal,Belted Outfit,155.4
+IMG_246,Rectangle,37,39,48,1.23,Warm,Dress,Red,Short,High Neck,Solid,Wool,College,Layered Outfit,162.3
+IMG_247,Pear,45,35,45,1.29,Warm,Kurti,Pink,Half,Sweetheart,Checked,Silk,College,Boat-Neck Top,161.2
+IMG_248,Apple,38,30,39,1.3,Cool,Jacket,Grey,Sleeveless,Sweetheart,Polka Dot,Silk,Party,Empire-Waist Dress,159.8
+IMG_249,Hourglass,39,31,40,1.29,Warm,Blouse,Olive,Sleeveless,Collar,Printed,Polyester,Traditional,Belted Outfit,179.1
+IMG_250,Rectangle,38,28,37,1.32,Cool,Sweater,Sky Blue,Short,Boat,Printed,Wool,Party,Belted Dress,168.2
+IMG_251,Inverted Triangle,46,39,41,1.05,Warm,Trousers,Peach,-,-,Striped,Denim,Traditional,Flowy Dress,154.9
+IMG_252,Apple,36,40,48,1.2,Warm,Kurti,Yellow,Sleeveless,Sweetheart,Solid,Rayon,Casual,V-Neck Outfit,172.3
+IMG_253,Pear,40,28,47,1.68,Neutral,Blouse,White,Sleeveless,V-Neck,Printed,Silk,Party,A-Line Dress,182.0
+IMG_254,Apple,43,36,44,1.22,Cool,Jacket,Grey,Sleeveless,Round,Printed,Polyester,College,V-Neck Outfit,173.3
+IMG_255,Rectangle,34,34,45,1.32,Cool,T-Shirt,Green,Full,Sweetheart,Polka Dot,Wool,College,Layered Outfit,152.8
+IMG_256,Apple,35,40,35,0.88,Warm,Dress,Navy Blue,Full,Square,Checked,Rayon,Party,Straight-Leg Trousers,161.1
+IMG_257,Rectangle,46,32,35,1.09,Cool,Sweater,Pink,Short,High Neck,Striped,Linen,Casual,Peplum Top,175.1
+IMG_258,Inverted Triangle,35,32,40,1.25,Cool,T-Shirt,Green,Sleeveless,High Neck,Striped,Cotton,College,Flowy Dress,159.3
+IMG_259,Apple,44,38,39,1.03,Warm,Kurti,Lavender,Sleeveless,V-Neck,Striped,Rayon,Traditional,Longline Jacket,168.6
+IMG_260,Hourglass,38,26,48,1.85,Cool,Kurti,Yellow,Full,High Neck,Solid,Denim,Party,Wrap Dress,171.2
+IMG_261,Inverted Triangle,37,35,36,1.03,Warm,Jeans,Grey,-,-,Striped,Polyester,Formal,Flowy Dress,157.6
+IMG_262,Rectangle,44,40,42,1.05,Neutral,Blouse,Pink,Sleeveless,Square,Polka Dot,Linen,Casual,Peplum Top,164.5
+IMG_263,Hourglass,40,29,47,1.62,Neutral,Sweater,Maroon,Full,Boat,Checked,Cotton,Party,Belted Outfit,145.0
+IMG_264,Apple,41,29,39,1.34,Cool,Blouse,Pink,Full,High Neck,Floral,Cotton,Traditional,Straight-Leg Trousers,156.8
+IMG_265,Hourglass,46,29,45,1.55,Cool,Blouse,White,3/4,High Neck,Polka Dot,Denim,College,High-Waist Trousers,163.0
+IMG_266,Hourglass,39,27,35,1.3,Cool,Trousers,Red,-,-,Checked,Cotton,Formal,Wrap Dress,155.0
+IMG_267,Apple,36,32,41,1.28,Neutral,Skirt,Green,-,-,Solid,Cotton,Casual,Straight-Leg Trousers,178.1
+IMG_268,Apple,42,27,43,1.59,Cool,Skirt,Brown,-,-,Solid,Linen,College,Longline Jacket,153.6
+IMG_269,Apple,46,27,45,1.67,Warm,Sweater,Grey,Full,V-Neck,Polka Dot,Silk,Formal,Empire-Waist Dress,161.5
+IMG_270,Inverted Triangle,38,30,38,1.27,Warm,Blouse,Navy Blue,3/4,Collar,Floral,Linen,College,A-Line Skirt,166.0
+IMG_271,Inverted Triangle,39,30,37,1.23,Neutral,Dress,Olive,3/4,Round,Striped,Linen,Casual,Flowy Dress,176.5
+IMG_272,Inverted Triangle,39,39,43,1.1,Cool,Jacket,Brown,Half,Boat,Polka Dot,Polyester,Formal,V-Neck Top,153.5
+IMG_273,Pear,39,35,45,1.29,Cool,Blouse,Peach,3/4,Collar,Checked,Wool,College,Structured Top,174.3
+IMG_274,Inverted Triangle,39,32,38,1.19,Warm,Sweater,Maroon,Short,Square,Printed,Denim,Traditional,A-Line Skirt,165.1
+IMG_275,Pear,45,33,45,1.36,Cool,Shirt,Peach,3/4,High Neck,Floral,Denim,Party,Structured Top,157.1
+IMG_276,Inverted Triangle,38,36,36,1.0,Cool,Shirt,Brown,3/4,Square,Floral,Polyester,College,Flowy Dress,168.7
+IMG_277,Rectangle,42,26,46,1.77,Neutral,Sweater,Beige,Sleeveless,Round,Striped,Wool,Party,Layered Outfit,166.6
+IMG_278,Apple,44,35,34,0.97,Neutral,Skirt,Yellow,-,-,Checked,Rayon,College,V-Neck Outfit,160.2
+IMG_279,Pear,34,27,38,1.41,Neutral,Kurti,Green,Full,Square,Polka Dot,Polyester,Formal,Dark Bottom,165.6
+IMG_280,Apple,39,32,41,1.28,Neutral,Blouse,Beige,Half,Round,Floral,Cotton,Party,Longline Jacket,161.9
+IMG_281,Pear,48,27,35,1.3,Cool,Trousers,Maroon,-,-,Floral,Rayon,Formal,Dark Bottom,165.9
+IMG_282,Inverted Triangle,39,33,35,1.06,Neutral,Jacket,Beige,Half,Round,Checked,Cotton,Casual,A-Line Skirt,170.3
+IMG_283,Hourglass,47,31,44,1.42,Warm,Dress,Yellow,Full,V-Neck,Printed,Denim,Party,Belted Outfit,177.7
+IMG_284,Inverted Triangle,41,29,46,1.59,Warm,Blouse,Yellow,3/4,Boat,Solid,Wool,Traditional,Wide-Leg Trousers,155.1
+IMG_285,Inverted Triangle,41,35,40,1.14,Neutral,Dress,Black,Short,Collar,Polka Dot,Rayon,Casual,A-Line Skirt,182.1
+IMG_286,Pear,46,39,42,1.08,Cool,Dress,Maroon,3/4,Round,Checked,Wool,College,Boat-Neck Top,149.4
+IMG_287,Inverted Triangle,43,32,43,1.34,Warm,Trousers,Olive,-,-,Checked,Rayon,College,Wide-Leg Trousers,163.8
+IMG_288,Rectangle,47,36,45,1.25,Neutral,Sweater,Grey,Sleeveless,High Neck,Striped,Linen,Casual,Layered Outfit,169.7
+IMG_289,Rectangle,38,27,36,1.33,Warm,Kurti,Beige,3/4,Boat,Printed,Denim,Traditional,Pleated Skirt,167.2
+IMG_290,Apple,40,28,41,1.46,Neutral,Blouse,Beige,Full,V-Neck,Floral,Linen,Formal,Empire-Waist Dress,160.0
+IMG_291,Apple,39,39,41,1.05,Cool,T-Shirt,Black,3/4,V-Neck,Striped,Rayon,College,Longline Jacket,163.3
+IMG_292,Inverted Triangle,40,36,41,1.14,Cool,Jacket,Beige,Short,Round,Printed,Cotton,Formal,V-Neck Top,161.1
+IMG_293,Apple,34,30,37,1.23,Warm,Jacket,Red,Full,High Neck,Floral,Polyester,Traditional,V-Neck Outfit,160.3
+IMG_294,Apple,43,27,38,1.41,Cool,Kurti,Lavender,Sleeveless,Sweetheart,Polka Dot,Silk,Traditional,Empire-Waist Dress,171.8
+IMG_295,Pear,40,27,45,1.67,Warm,Jacket,Red,Half,Collar,Solid,Silk,Casual,Structured Top,167.9
+IMG_296,Apple,37,38,45,1.18,Cool,Sweater,Beige,3/4,V-Neck,Printed,Denim,Formal,Empire-Waist Dress,159.5
+IMG_297,Rectangle,46,26,43,1.65,Cool,Sweater,Green,Full,V-Neck,Checked,Wool,Party,Belted Dress,172.2
+IMG_298,Apple,43,30,47,1.57,Neutral,Shirt,Grey,Short,Sweetheart,Floral,Cotton,Party,Empire-Waist Dress,167.5
+IMG_299,Pear,45,39,36,0.92,Neutral,Trousers,Navy Blue,-,-,Striped,Rayon,College,Dark Bottom,171.5
+IMG_300,Rectangle,36,35,44,1.26,Cool,Skirt,Yellow,-,-,Floral,Cotton,Casual,Pleated Skirt,170.0
+IMG_301,Rectangle,42,37,38,1.03,Cool,Trousers,Peach,-,-,Printed,Cotton,Casual,Pleated Skirt,158.4
+IMG_302,Rectangle,44,36,45,1.25,Warm,Kurti,Lavender,3/4,V-Neck,Floral,Rayon,Formal,Pleated Skirt,160.5
+IMG_303,Rectangle,38,31,47,1.52,Neutral,Sweater,Maroon,Short,Square,Floral,Rayon,Party,Peplum Top,171.0
+IMG_304,Inverted Triangle,34,27,44,1.63,Warm,Blouse,Black,3/4,Boat,Solid,Silk,Formal,Wide-Leg Trousers,169.9
+IMG_305,Pear,48,36,38,1.06,Cool,Shirt,Lavender,Half,Collar,Solid,Linen,Formal,A-Line Dress,164.8
+IMG_306,Pear,40,36,38,1.06,Neutral,Shirt,Pink,Sleeveless,Round,Striped,Silk,Casual,Structured Top,165.9
+IMG_307,Inverted Triangle,43,29,42,1.45,Warm,Trousers,Black,-,-,Solid,Rayon,College,Wide-Leg Trousers,175.2
+IMG_308,Inverted Triangle,41,27,37,1.37,Neutral,Shirt,White,Sleeveless,Collar,Checked,Linen,Formal,Flowy Dress,160.3
+IMG_309,Pear,46,39,46,1.18,Neutral,Blouse,Yellow,Sleeveless,Square,Printed,Cotton,Traditional,Structured Top,169.4
+IMG_310,Pear,41,31,45,1.45,Neutral,Blouse,Yellow,3/4,Square,Polka Dot,Silk,Formal,A-Line Dress,163.4
+IMG_311,Hourglass,48,27,36,1.33,Neutral,Skirt,Olive,-,-,Checked,Silk,Party,Fitted Dress,163.3
+IMG_312,Hourglass,37,30,44,1.47,Neutral,Sweater,Sky Blue,Full,High Neck,Printed,Linen,Casual,High-Waist Trousers,173.8
+IMG_313,Apple,37,34,43,1.26,Neutral,Skirt,Sky Blue,-,-,Checked,Wool,Casual,Empire-Waist Dress,171.6
+IMG_314,Pear,41,32,35,1.09,Neutral,Sweater,Peach,Sleeveless,Square,Solid,Linen,Party,Structured Top,171.5
+IMG_315,Apple,40,39,47,1.21,Cool,Kurti,Pink,Short,Sweetheart,Floral,Rayon,Casual,V-Neck Outfit,175.4
+IMG_316,Rectangle,43,27,34,1.26,Warm,T-Shirt,Sky Blue,3/4,Square,Checked,Wool,Traditional,Pleated Skirt,165.2
+IMG_317,Hourglass,40,37,40,1.08,Neutral,Kurti,Yellow,Full,V-Neck,Checked,Cotton,Party,Wrap Dress,170.5
+IMG_318,Pear,42,40,37,0.93,Cool,Skirt,Green,-,-,Printed,Wool,Casual,Boat-Neck Top,162.5
+IMG_319,Pear,45,32,45,1.41,Warm,Shirt,Black,3/4,Round,Floral,Polyester,Traditional,A-Line Dress,167.6
+IMG_320,Pear,38,36,45,1.25,Warm,Blouse,White,Sleeveless,V-Neck,Floral,Linen,Traditional,Boat-Neck Top,164.0
+IMG_321,Rectangle,36,31,36,1.16,Warm,T-Shirt,Beige,Half,Sweetheart,Floral,Linen,Traditional,Peplum Top,165.8
+IMG_322,Hourglass,38,37,43,1.16,Cool,Kurti,Peach,Half,Round,Floral,Rayon,Traditional,Fitted Dress,169.8
+IMG_323,Hourglass,39,28,38,1.36,Neutral,Shirt,Grey,Short,High Neck,Printed,Cotton,Casual,Wrap Dress,158.5
+IMG_324,Rectangle,37,26,41,1.58,Warm,Blouse,Pink,Sleeveless,Square,Polka Dot,Wool,College,Layered Outfit,181.7
+IMG_325,Rectangle,39,29,40,1.38,Warm,Sweater,Red,Half,Round,Printed,Wool,Casual,Layered Outfit,157.0
+IMG_326,Hourglass,37,38,42,1.11,Warm,Jacket,Pink,Half,Sweetheart,Checked,Linen,Casual,Belted Outfit,155.3
+IMG_327,Rectangle,34,31,37,1.19,Cool,Sweater,Olive,Short,Boat,Checked,Polyester,College,Layered Outfit,174.3
+IMG_328,Pear,45,40,42,1.05,Warm,Skirt,Navy Blue,-,-,Solid,Denim,Traditional,Boat-Neck Top,171.3
+IMG_329,Hourglass,44,39,45,1.15,Warm,Skirt,Maroon,-,-,Polka Dot,Wool,Party,Wrap Dress,170.0
+IMG_330,Inverted Triangle,37,34,37,1.09,Warm,Blouse,Peach,Half,Round,Solid,Denim,Traditional,Flowy Dress,170.0
+IMG_331,Inverted Triangle,45,40,39,0.97,Warm,Sweater,Beige,Sleeveless,Square,Striped,Wool,College,A-Line Skirt,164.9
+IMG_332,Inverted Triangle,43,35,34,0.97,Warm,Dress,Yellow,Half,Collar,Checked,Rayon,College,V-Neck Top,157.8
+IMG_333,Pear,39,33,38,1.15,Warm,Blouse,White,Full,Round,Striped,Cotton,Formal,Dark Bottom,165.6
+IMG_334,Hourglass,41,31,40,1.29,Cool,Dress,Green,3/4,Collar,Floral,Linen,Casual,Wrap Dress,159.6
+IMG_335,Rectangle,36,38,44,1.16,Neutral,Sweater,Lavender,Sleeveless,V-Neck,Checked,Denim,Casual,Layered Outfit,172.8
+IMG_336,Hourglass,39,32,42,1.31,Cool,Jeans,Yellow,-,-,Striped,Cotton,College,Belted Outfit,163.8
+IMG_337,Pear,42,37,42,1.14,Cool,Shirt,White,Short,Round,Solid,Cotton,Formal,Structured Top,158.4
+IMG_338,Rectangle,37,39,40,1.03,Neutral,Shirt,Yellow,Full,Square,Checked,Rayon,Casual,Peplum Top,162.4
+IMG_339,Inverted Triangle,35,29,48,1.66,Warm,Shirt,Brown,Half,Round,Solid,Silk,Casual,Wide-Leg Trousers,168.3
+IMG_340,Inverted Triangle,48,35,40,1.14,Warm,Skirt,Peach,-,-,Polka Dot,Silk,Formal,V-Neck Top,160.5
+IMG_341,Rectangle,37,40,36,0.9,Cool,Blouse,Red,Sleeveless,Square,Printed,Polyester,Formal,Belted Dress,158.4
+IMG_342,Apple,41,32,48,1.5,Warm,Shirt,Peach,Half,Boat,Striped,Silk,Formal,Empire-Waist Dress,166.9
+IMG_343,Hourglass,44,38,42,1.11,Neutral,Trousers,Pink,-,-,Floral,Polyester,College,High-Waist Trousers,167.0
+IMG_344,Rectangle,48,35,42,1.2,Cool,Blouse,Pink,Sleeveless,Collar,Printed,Denim,Casual,Belted Dress,160.9
+IMG_345,Apple,34,38,41,1.08,Neutral,Dress,Maroon,Short,Round,Striped,Wool,Formal,Straight-Leg Trousers,161.2
+IMG_346,Hourglass,42,39,46,1.18,Warm,Sweater,Brown,3/4,Collar,Striped,Denim,Formal,High-Waist Trousers,166.9
+IMG_347,Rectangle,46,37,45,1.22,Neutral,T-Shirt,Grey,Half,Square,Printed,Denim,Traditional,Layered Outfit,153.4
+IMG_348,Inverted Triangle,47,38,48,1.26,Cool,Blouse,Green,3/4,Round,Solid,Cotton,Formal,Wide-Leg Trousers,153.7
+IMG_349,Hourglass,34,34,41,1.21,Neutral,Dress,Maroon,Short,Collar,Polka Dot,Denim,Party,Wrap Dress,159.3
+IMG_350,Pear,34,28,43,1.54,Warm,Kurti,Brown,Half,Round,Checked,Wool,College,A-Line Dress,163.3
+IMG_351,Pear,39,30,39,1.3,Neutral,Skirt,Navy Blue,-,-,Polka Dot,Silk,Party,Structured Top,167.5
+IMG_352,Apple,45,34,45,1.32,Cool,Dress,Brown,Full,Sweetheart,Striped,Silk,Party,Straight-Leg Trousers,176.8
+IMG_353,Hourglass,36,28,45,1.61,Neutral,Skirt,Beige,-,-,Printed,Cotton,Formal,High-Waist Trousers,171.9
+IMG_354,Pear,48,38,43,1.13,Neutral,Shirt,Yellow,3/4,V-Neck,Checked,Wool,Casual,Structured Top,163.7
+IMG_355,Hourglass,39,31,36,1.16,Neutral,Trousers,Lavender,-,-,Floral,Cotton,Party,Fitted Dress,164.8
+IMG_356,Rectangle,37,37,35,0.95,Warm,T-Shirt,Red,Sleeveless,Boat,Floral,Wool,College,Layered Outfit,157.0
+IMG_357,Inverted Triangle,48,32,41,1.28,Neutral,Skirt,Maroon,-,-,Solid,Rayon,College,Wide-Leg Trousers,164.9
+IMG_358,Hourglass,36,33,35,1.06,Warm,Trousers,Red,-,-,Checked,Cotton,Casual,High-Waist Trousers,162.7
+IMG_359,Pear,36,40,40,1.0,Warm,Kurti,Beige,Sleeveless,Collar,Printed,Polyester,College,A-Line Dress,167.6
+IMG_360,Apple,40,36,36,1.0,Cool,Blouse,Grey,Sleeveless,Round,Checked,Denim,Formal,Longline Jacket,158.4
+IMG_361,Apple,45,34,45,1.32,Neutral,Jeans,Red,-,-,Checked,Denim,Casual,V-Neck Outfit,169.2
+IMG_362,Inverted Triangle,40,35,42,1.2,Warm,Trousers,Navy Blue,-,-,Solid,Silk,Casual,V-Neck Top,177.3
+IMG_363,Apple,47,36,44,1.22,Warm,Shirt,Peach,Sleeveless,V-Neck,Striped,Wool,Party,V-Neck Outfit,164.1
+IMG_364,Rectangle,41,39,35,0.9,Cool,Jacket,Brown,3/4,High Neck,Checked,Cotton,Traditional,Pleated Skirt,168.2
+IMG_365,Inverted Triangle,36,31,48,1.55,Warm,Jacket,Maroon,Sleeveless,Collar,Floral,Silk,Party,Wide-Leg Trousers,170.5
+IMG_366,Hourglass,47,30,43,1.43,Neutral,Shirt,Navy Blue,Sleeveless,High Neck,Checked,Rayon,Traditional,Belted Outfit,161.8
+IMG_367,Apple,46,35,37,1.06,Cool,Kurti,Black,3/4,Square,Polka Dot,Rayon,College,Empire-Waist Dress,166.8
+IMG_368,Inverted Triangle,41,30,35,1.17,Neutral,T-Shirt,Grey,Full,Square,Printed,Rayon,Traditional,Wide-Leg Trousers,165.1
+IMG_369,Pear,35,38,41,1.08,Warm,Dress,Navy Blue,Short,Round,Floral,Cotton,College,Structured Top,165.8
+IMG_370,Apple,47,36,36,1.0,Cool,Shirt,Red,Sleeveless,Boat,Printed,Silk,Traditional,Straight-Leg Trousers,158.8
+IMG_371,Inverted Triangle,47,30,42,1.4,Warm,Sweater,Grey,Full,Square,Floral,Cotton,College,Wide-Leg Trousers,165.2
+IMG_372,Apple,36,35,43,1.23,Warm,Shirt,Brown,Full,Sweetheart,Solid,Rayon,Party,Straight-Leg Trousers,169.0
+IMG_373,Inverted Triangle,48,32,38,1.19,Cool,Sweater,Yellow,Full,Boat,Solid,Denim,Party,Flowy Dress,176.6
+IMG_374,Inverted Triangle,36,35,43,1.23,Cool,Trousers,Black,-,-,Polka Dot,Denim,Casual,Flowy Dress,172.7
+IMG_375,Rectangle,48,30,48,1.6,Cool,Jeans,Black,-,-,Checked,Linen,College,Peplum Top,182.2
+IMG_376,Rectangle,47,29,36,1.24,Cool,Trousers,Beige,-,-,Checked,Wool,College,Peplum Top,158.9
+IMG_377,Inverted Triangle,37,33,37,1.12,Cool,Kurti,Beige,Half,Sweetheart,Solid,Polyester,Formal,A-Line Skirt,172.0
+IMG_378,Inverted Triangle,38,37,42,1.14,Neutral,Sweater,Navy Blue,Sleeveless,V-Neck,Striped,Rayon,Formal,A-Line Skirt,166.5
+IMG_379,Hourglass,37,26,41,1.58,Cool,Dress,Grey,Half,Collar,Floral,Polyester,College,Wrap Dress,182.5
+IMG_380,Rectangle,44,26,37,1.42,Neutral,Jacket,Peach,Short,Sweetheart,Floral,Polyester,Traditional,Belted Dress,158.5
+IMG_381,Rectangle,39,28,47,1.68,Neutral,Shirt,Beige,Half,Round,Floral,Cotton,Formal,Layered Outfit,158.3
+IMG_382,Pear,47,29,44,1.52,Warm,Jeans,Yellow,-,-,Polka Dot,Silk,Traditional,A-Line Dress,160.2
+IMG_383,Hourglass,47,38,46,1.21,Warm,Blouse,Peach,Full,Sweetheart,Solid,Denim,Party,High-Waist Trousers,148.0
+IMG_384,Rectangle,45,37,44,1.19,Cool,Trousers,Pink,-,-,Floral,Linen,Formal,Pleated Skirt,160.8
+IMG_385,Apple,38,36,42,1.17,Neutral,Shirt,Pink,Sleeveless,Square,Polka Dot,Rayon,Party,Straight-Leg Trousers,158.9
+IMG_386,Inverted Triangle,38,36,35,0.97,Cool,Jeans,White,-,-,Polka Dot,Linen,Party,V-Neck Top,166.2
+IMG_387,Rectangle,44,37,48,1.3,Warm,Kurti,Sky Blue,Short,Round,Printed,Silk,Party,Layered Outfit,167.7
+IMG_388,Inverted Triangle,45,26,44,1.69,Cool,Skirt,Red,-,-,Floral,Silk,Casual,Wide-Leg Trousers,180.0
+IMG_389,Pear,39,37,45,1.22,Neutral,Jacket,Yellow,Half,Square,Checked,Rayon,Formal,Structured Top,172.6
+IMG_390,Pear,38,27,41,1.52,Cool,Kurti,Beige,Short,High Neck,Checked,Wool,Casual,Structured Top,160.4
+IMG_391,Rectangle,39,29,45,1.55,Cool,Trousers,Pink,-,-,Checked,Polyester,Party,Pleated Skirt,157.8
+IMG_392,Hourglass,47,27,41,1.52,Neutral,Sweater,Lavender,Full,Square,Solid,Silk,Formal,Wrap Dress,168.9
+IMG_393,Apple,47,36,40,1.11,Cool,T-Shirt,Red,Short,V-Neck,Striped,Linen,College,Longline Jacket,154.4
+IMG_394,Pear,36,31,47,1.52,Warm,Jacket,Brown,Half,High Neck,Striped,Linen,Casual,A-Line Dress,179.7
+IMG_395,Pear,41,30,37,1.23,Warm,Jacket,Olive,Sleeveless,V-Neck,Printed,Silk,College,Dark Bottom,174.4
+IMG_396,Hourglass,40,33,40,1.21,Neutral,Dress,Black,Half,Round,Checked,Rayon,Traditional,Fitted Dress,161.2
+IMG_397,Pear,34,36,34,0.94,Neutral,Trousers,Sky Blue,-,-,Checked,Denim,Casual,Dark Bottom,151.3
+IMG_398,Pear,42,35,38,1.09,Warm,Jeans,White,-,-,Checked,Silk,Traditional,Boat-Neck Top,175.8
+IMG_399,Pear,40,40,44,1.1,Cool,Trousers,Maroon,-,-,Striped,Denim,College,A-Line Dress,164.1
+IMG_400,Pear,37,29,45,1.55,Neutral,T-Shirt,Sky Blue,Full,Square,Striped,Cotton,Party,A-Line Dress,174.9
+IMG_401,Rectangle,40,40,44,1.1,Neutral,Sweater,Brown,Sleeveless,Square,Solid,Wool,Casual,Peplum Top,152.2
+IMG_402,Inverted Triangle,34,37,35,0.95,Cool,Shirt,Peach,Full,Collar,Floral,Wool,Formal,Wide-Leg Trousers,160.2
+IMG_403,Hourglass,45,36,44,1.22,Cool,Shirt,Red,Full,Collar,Printed,Polyester,Formal,Belted Outfit,165.0
+IMG_404,Apple,47,40,35,0.88,Neutral,Shirt,Beige,Half,Round,Solid,Silk,Formal,Empire-Waist Dress,165.4
+IMG_405,Apple,46,30,47,1.57,Cool,Skirt,Sky Blue,-,-,Checked,Denim,Casual,Longline Jacket,161.4
+IMG_406,Inverted Triangle,48,29,45,1.55,Warm,T-Shirt,Maroon,Sleeveless,High Neck,Solid,Cotton,Traditional,Flowy Dress,170.0
+IMG_407,Apple,36,27,46,1.7,Neutral,Shirt,White,Half,High Neck,Striped,Silk,Party,Straight-Leg Trousers,156.5
+IMG_408,Pear,41,26,35,1.35,Warm,Jeans,Lavender,-,-,Checked,Rayon,Party,Dark Bottom,163.9
+IMG_409,Hourglass,45,27,35,1.3,Warm,Blouse,Black,Half,Collar,Floral,Polyester,Party,Wrap Dress,166.0
+IMG_410,Pear,39,39,39,1.0,Cool,Skirt,White,-,-,Floral,Linen,College,Dark Bottom,169.1
+IMG_411,Pear,46,32,44,1.38,Warm,T-Shirt,White,Short,Round,Floral,Polyester,College,Dark Bottom,170.7
+IMG_412,Rectangle,36,35,40,1.14,Warm,Blouse,Olive,3/4,Boat,Solid,Silk,College,Peplum Top,156.0
+IMG_413,Rectangle,35,30,44,1.47,Neutral,Kurti,Black,Full,High Neck,Printed,Denim,Party,Peplum Top,152.7
+IMG_414,Pear,40,36,45,1.25,Cool,Skirt,Peach,-,-,Striped,Rayon,Traditional,A-Line Dress,175.2
+IMG_415,Pear,34,36,48,1.33,Cool,Jacket,Green,Short,Round,Floral,Linen,Formal,Boat-Neck Top,167.7
+IMG_416,Pear,38,26,42,1.62,Neutral,Skirt,Green,-,-,Floral,Rayon,Formal,A-Line Dress,159.0
+IMG_417,Apple,41,33,46,1.39,Warm,Jacket,Peach,3/4,Collar,Solid,Silk,Casual,V-Neck Outfit,177.4
+IMG_418,Apple,40,32,34,1.06,Warm,Shirt,Green,Full,Square,Polka Dot,Linen,Traditional,Empire-Waist Dress,165.9
+IMG_419,Rectangle,44,36,41,1.14,Warm,Dress,Maroon,3/4,Collar,Printed,Rayon,Traditional,Pleated Skirt,174.4
+IMG_420,Inverted Triangle,45,36,39,1.08,Warm,Dress,White,Sleeveless,Collar,Checked,Rayon,Party,V-Neck Top,165.5
+IMG_421,Pear,45,27,34,1.26,Warm,Skirt,Peach,-,-,Solid,Linen,Traditional,Structured Top,181.5
+IMG_422,Inverted Triangle,37,27,48,1.78,Cool,Dress,Sky Blue,Half,Round,Floral,Cotton,Traditional,A-Line Skirt,179.0
+IMG_423,Inverted Triangle,46,40,41,1.02,Neutral,Kurti,Yellow,Short,Boat,Solid,Polyester,Casual,Flowy Dress,163.0
+IMG_424,Apple,47,35,41,1.17,Warm,Sweater,Brown,Short,High Neck,Striped,Cotton,College,Straight-Leg Trousers,172.8
+IMG_425,Inverted Triangle,42,40,40,1.0,Neutral,Dress,Olive,Half,Boat,Checked,Linen,College,Wide-Leg Trousers,170.2
+IMG_426,Apple,36,32,43,1.34,Neutral,Kurti,Red,Half,High Neck,Polka Dot,Polyester,Formal,Empire-Waist Dress,175.9
+IMG_427,Rectangle,37,35,45,1.29,Cool,Blouse,Yellow,Short,Square,Printed,Wool,Party,Peplum Top,157.3
+IMG_428,Inverted Triangle,46,31,42,1.35,Neutral,Skirt,Olive,-,-,Polka Dot,Wool,Traditional,V-Neck Top,170.5
+IMG_429,Hourglass,48,39,40,1.03,Warm,T-Shirt,Green,3/4,V-Neck,Solid,Wool,Casual,Fitted Dress,173.5
+IMG_430,Pear,38,38,46,1.21,Neutral,Jeans,Red,-,-,Striped,Rayon,Casual,Boat-Neck Top,150.9
+IMG_431,Hourglass,37,38,42,1.11,Cool,Shirt,Maroon,Full,Sweetheart,Polka Dot,Wool,Traditional,Fitted Dress,155.5
+IMG_432,Inverted Triangle,45,36,42,1.17,Neutral,Jeans,Sky Blue,-,-,Polka Dot,Wool,Casual,Flowy Dress,148.7
+IMG_433,Rectangle,40,32,46,1.44,Warm,T-Shirt,Green,Half,V-Neck,Printed,Rayon,College,Layered Outfit,162.8
+IMG_434,Rectangle,48,36,45,1.25,Neutral,Kurti,Brown,Full,V-Neck,Polka Dot,Denim,Party,Pleated Skirt,170.7
+IMG_435,Pear,36,36,35,0.97,Neutral,Kurti,Navy Blue,Sleeveless,Boat,Solid,Silk,Party,Boat-Neck Top,177.0
+IMG_436,Rectangle,36,28,43,1.54,Cool,Jacket,Black,Short,Round,Striped,Linen,Traditional,Peplum Top,165.6
+IMG_437,Apple,46,40,44,1.1,Neutral,Jeans,Lavender,-,-,Floral,Rayon,Traditional,Straight-Leg Trousers,178.0
+IMG_438,Rectangle,35,38,45,1.18,Warm,Blouse,Green,Full,Round,Printed,Denim,College,Pleated Skirt,154.0
+IMG_439,Pear,35,31,37,1.19,Cool,Trousers,Yellow,-,-,Checked,Linen,Formal,Dark Bottom,151.4
+IMG_440,Hourglass,42,39,46,1.18,Neutral,Trousers,White,-,-,Floral,Denim,Traditional,Fitted Dress,164.6
+IMG_441,Rectangle,34,36,48,1.33,Warm,Skirt,Pink,-,-,Checked,Polyester,Party,Peplum Top,168.1
+IMG_442,Rectangle,48,34,47,1.38,Neutral,Jacket,Green,3/4,Round,Checked,Wool,Formal,Belted Dress,164.7
+IMG_443,Pear,42,27,35,1.3,Neutral,Kurti,Brown,Sleeveless,High Neck,Solid,Denim,Formal,Dark Bottom,148.5
+IMG_444,Apple,47,27,37,1.37,Neutral,Skirt,Lavender,-,-,Polka Dot,Rayon,Casual,Empire-Waist Dress,164.3
+IMG_445,Rectangle,34,33,45,1.36,Warm,Shirt,Black,Sleeveless,V-Neck,Checked,Polyester,Casual,Layered Outfit,154.6
+IMG_446,Inverted Triangle,48,30,40,1.33,Neutral,Skirt,Peach,-,-,Floral,Linen,Casual,Flowy Dress,170.4
+IMG_447,Hourglass,44,27,42,1.56,Neutral,Sweater,Yellow,Sleeveless,Sweetheart,Polka Dot,Polyester,Casual,Wrap Dress,167.9
+IMG_448,Hourglass,39,40,42,1.05,Neutral,Jeans,Red,-,-,Printed,Cotton,Party,Belted Outfit,157.5
+IMG_449,Hourglass,40,32,47,1.47,Warm,Kurti,Peach,Short,V-Neck,Polka Dot,Silk,Traditional,High-Waist Trousers,160.9
+IMG_450,Rectangle,44,28,38,1.36,Neutral,Kurti,Black,Short,Round,Solid,Cotton,Traditional,Pleated Skirt,156.5
+IMG_451,Rectangle,42,34,35,1.03,Neutral,Trousers,Sky Blue,-,-,Striped,Silk,Traditional,Layered Outfit,164.5
+IMG_452,Apple,36,28,37,1.32,Cool,Dress,Lavender,Sleeveless,V-Neck,Polka Dot,Rayon,Traditional,V-Neck Outfit,172.6
+IMG_453,Apple,47,38,48,1.26,Neutral,Kurti,Peach,Sleeveless,Collar,Polka Dot,Cotton,Party,V-Neck Outfit,157.1
+IMG_454,Inverted Triangle,37,37,43,1.16,Cool,Blouse,Maroon,Short,Round,Checked,Polyester,Casual,Wide-Leg Trousers,169.0
+IMG_455,Rectangle,39,33,41,1.24,Neutral,Jeans,Olive,-,-,Polka Dot,Polyester,Formal,Belted Dress,160.8
+IMG_456,Pear,46,31,40,1.29,Cool,Dress,Black,Short,High Neck,Polka Dot,Wool,College,Boat-Neck Top,158.7
+IMG_457,Rectangle,47,31,36,1.16,Cool,Jacket,Grey,3/4,Collar,Checked,Silk,Traditional,Peplum Top,164.1
+IMG_458,Hourglass,36,36,43,1.19,Cool,Blouse,Lavender,Full,V-Neck,Checked,Wool,Casual,Wrap Dress,156.7
+IMG_459,Apple,48,26,47,1.81,Warm,Sweater,Yellow,Full,Boat,Printed,Denim,Casual,Straight-Leg Trousers,160.6
+IMG_460,Inverted Triangle,42,40,42,1.05,Warm,Trousers,Yellow,-,-,Floral,Denim,Traditional,V-Neck Top,155.4
+IMG_461,Apple,36,33,42,1.27,Cool,Trousers,White,-,-,Printed,Cotton,Formal,Empire-Waist Dress,180.7
+IMG_462,Inverted Triangle,46,34,36,1.06,Warm,Sweater,Navy Blue,Full,High Neck,Striped,Wool,College,V-Neck Top,165.3
+IMG_463,Inverted Triangle,34,29,46,1.59,Warm,Jeans,Sky Blue,-,-,Checked,Denim,Casual,Wide-Leg Trousers,159.4
+IMG_464,Rectangle,42,40,46,1.15,Cool,Jacket,Pink,Sleeveless,Round,Polka Dot,Linen,Casual,Belted Dress,166.7
+IMG_465,Apple,47,37,38,1.03,Neutral,Blouse,Green,3/4,High Neck,Floral,Linen,Traditional,V-Neck Outfit,164.1
+IMG_466,Pear,42,30,40,1.33,Cool,Trousers,Green,-,-,Checked,Silk,College,A-Line Dress,163.2
+IMG_467,Inverted Triangle,42,40,36,0.9,Warm,Shirt,Navy Blue,Full,High Neck,Checked,Denim,Formal,Wide-Leg Trousers,169.9
+IMG_468,Hourglass,36,31,43,1.39,Warm,Skirt,Yellow,-,-,Checked,Wool,Casual,Belted Outfit,171.1
+IMG_469,Pear,44,33,41,1.24,Warm,Skirt,Olive,-,-,Solid,Denim,Casual,Structured Top,160.8
+IMG_470,Pear,43,35,36,1.03,Neutral,T-Shirt,Yellow,Full,V-Neck,Solid,Denim,Party,Structured Top,160.4
+IMG_471,Apple,42,32,43,1.34,Warm,Jeans,Yellow,-,-,Solid,Denim,College,Longline Jacket,162.8
+IMG_472,Pear,47,33,36,1.09,Cool,Sweater,Lavender,Short,Sweetheart,Printed,Rayon,Formal,Boat-Neck Top,146.6
+IMG_473,Rectangle,36,37,44,1.19,Cool,Sweater,Grey,Full,Round,Striped,Silk,College,Layered Outfit,152.9
+IMG_474,Apple,35,26,37,1.42,Neutral,Skirt,Lavender,-,-,Striped,Polyester,Casual,Empire-Waist Dress,175.9
+IMG_475,Apple,41,40,43,1.07,Neutral,Kurti,Black,Sleeveless,Round,Floral,Wool,Formal,V-Neck Outfit,178.2
+IMG_476,Inverted Triangle,48,38,44,1.16,Cool,Trousers,Green,-,-,Solid,Wool,Traditional,Flowy Dress,163.0
+IMG_477,Inverted Triangle,37,38,41,1.08,Neutral,Sweater,Maroon,Sleeveless,Boat,Striped,Linen,College,Wide-Leg Trousers,169.6
+IMG_478,Rectangle,48,39,35,0.9,Neutral,Skirt,Olive,-,-,Checked,Denim,Casual,Peplum Top,167.5
+IMG_479,Apple,43,34,35,1.03,Cool,Dress,Black,Half,Boat,Checked,Cotton,Formal,Longline Jacket,189.6
+IMG_480,Rectangle,44,35,38,1.09,Neutral,Skirt,Lavender,-,-,Printed,Linen,Traditional,Belted Dress,174.0
+IMG_481,Pear,44,32,46,1.44,Neutral,Kurti,Pink,3/4,V-Neck,Checked,Polyester,Traditional,Dark Bottom,164.0
+IMG_482,Rectangle,38,30,43,1.43,Neutral,Skirt,Brown,-,-,Polka Dot,Denim,Casual,Layered Outfit,157.4
+IMG_483,Pear,41,38,45,1.18,Warm,Kurti,White,3/4,Sweetheart,Checked,Rayon,Traditional,A-Line Dress,152.1
+IMG_484,Hourglass,36,32,44,1.38,Warm,Blouse,Brown,3/4,Square,Floral,Cotton,Casual,High-Waist Trousers,166.6
+IMG_485,Apple,37,31,35,1.13,Neutral,Skirt,Black,-,-,Floral,Polyester,Traditional,Straight-Leg Trousers,158.9
+IMG_486,Pear,45,35,34,0.97,Cool,Jacket,Yellow,Sleeveless,V-Neck,Polka Dot,Rayon,Traditional,Boat-Neck Top,153.6
+IMG_487,Apple,37,26,46,1.77,Neutral,Dress,Green,Full,V-Neck,Polka Dot,Cotton,Party,Empire-Waist Dress,159.8
+IMG_488,Hourglass,44,26,36,1.38,Cool,Trousers,Red,-,-,Polka Dot,Silk,College,Fitted Dress,156.3
+IMG_489,Hourglass,42,26,45,1.73,Warm,Kurti,Grey,Half,High Neck,Printed,Polyester,Party,High-Waist Trousers,178.5
+IMG_490,Apple,47,30,37,1.23,Cool,Skirt,Sky Blue,-,-,Printed,Cotton,Party,Empire-Waist Dress,172.1
+IMG_491,Apple,40,34,35,1.03,Neutral,Jeans,White,-,-,Checked,Cotton,Traditional,Straight-Leg Trousers,164.9
+IMG_492,Apple,48,34,47,1.38,Neutral,Jacket,Red,3/4,Square,Floral,Rayon,Formal,Straight-Leg Trousers,176.8
+IMG_493,Inverted Triangle,46,33,44,1.33,Neutral,T-Shirt,Grey,3/4,Round,Checked,Cotton,College,Wide-Leg Trousers,165.6
+IMG_494,Rectangle,44,37,37,1.0,Cool,Kurti,Pink,Full,Round,Polka Dot,Rayon,Party,Layered Outfit,158.1
+IMG_495,Rectangle,38,27,40,1.48,Neutral,Blouse,White,3/4,Collar,Checked,Denim,Traditional,Belted Dress,177.2
+IMG_496,Pear,36,37,44,1.19,Neutral,Dress,Peach,Short,High Neck,Striped,Rayon,Party,Structured Top,169.3
+IMG_497,Pear,37,29,47,1.62,Neutral,Trousers,Lavender,-,-,Striped,Rayon,Casual,A-Line Dress,156.7
+IMG_498,Inverted Triangle,48,27,44,1.63,Warm,Kurti,Olive,Sleeveless,Sweetheart,Floral,Linen,Traditional,V-Neck Top,163.5
+IMG_499,Apple,41,40,48,1.2,Cool,Jacket,Lavender,Short,Sweetheart,Printed,Linen,College,Empire-Waist Dress,158.0
+IMG_500,Hourglass,46,35,36,1.03,Cool,Jacket,Green,Full,Round,Printed,Linen,College,Fitted Dress,153.9
